@@ -1,0 +1,8 @@
+# 監視したいサイトのRSS/AtomフィードURLを1行に1つずつ書いてください。
+# 「#」で始まる行はコメントとして無視されます。
+#
+# 例:
+# https://example.com/feed
+# https://example.com/rss.xml
+#
+# ↓ここに追加していってください
